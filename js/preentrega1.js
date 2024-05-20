@@ -25,3 +25,4 @@ while(ingresarEdad <= 0 || ingresarEdad < 18 || !ingresarEdad);
 function despedida (){
     alert("Gracias Por visitar Nuestra Página");
 }
+despedida()
