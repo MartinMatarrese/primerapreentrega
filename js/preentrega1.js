@@ -22,5 +22,5 @@ do{
 }
 while(ingresarEdad <= 0 || ingresarEdad < 18 || !ingresarEdad);
 
-let despedidad = ("Gracias por visitar nuestra pagina");
-alert(despedidad);
+let despedida = ("Gracias por visitar nuestra pagina");
+alert(despedida);
