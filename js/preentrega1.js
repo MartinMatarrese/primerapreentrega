@@ -1,5 +1,5 @@
 function saludo(){
-    alert("Bienvenidos a nuestra pagina");
+    alert("Bienvenidos a Nuestra Página");
 }
 saludo();
 
@@ -22,5 +22,6 @@ do{
 }
 while(ingresarEdad <= 0 || ingresarEdad < 18 || !ingresarEdad);
 
-let despedida = ("Gracias por visitar nuestra pagina");
-alert(despedida);
+function despedida (){
+    alert("Gracias Por visitar Nuestra Página");
+}
