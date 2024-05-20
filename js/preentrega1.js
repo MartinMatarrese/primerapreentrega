@@ -6,7 +6,7 @@ saludo();
 let ingresarEdad;
 
 do{
-    ingresarEdad = parseInt(prompt("Ingrese su edad, debe ser Mayor de Edad"));    
+    ingresarEdad = parseInt(prompt("Ingrese su edad, " + " debe ser Mayor de Edad"));    
     if(ingresarEdad >= 18){
         alert("Su edad es de " + ingresarEdad + " años, por lo tanto es Mayor de Edad");
     } 
